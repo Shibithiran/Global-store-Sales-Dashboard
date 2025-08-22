@@ -12,11 +12,7 @@ This repository contains an interactive Power BI dashboard that analyzes and vis
 
 
 
-1\. The goal of this project is to:
-
-
-
-2\. Track overall sales, profit, and profit percentage.
+1\. The goal of this project is to Track overall sales, profit, and profit percentage.
 
 
 
@@ -50,7 +46,7 @@ This repository contains an interactive Power BI dashboard that analyzes and vis
 
 
 
-3\. Dashboard Report.docx → Detailed explanation of KPIs and business insights.
+3\. Dashboard Report.pdf → Detailed explanation of KPIs and business insights.
 
 
 
@@ -227,6 +223,10 @@ Machines, Furnishings, and Paper also contribute significantly.
 2\. Open the .pbix file in Power BI Desktop.
 
 
+3.  Explore the interactive dashboard using filters (Year, Region, Order Priority, etc.).
+
+
 
 3\. Explore the interactive dashboard using filters (Year, Region, Order Priority, etc.).
+
 
