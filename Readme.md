@@ -181,7 +181,7 @@ Machines, Furnishings, and Paper also contribute significantly.
 
 
 1. Power BI (Dashboard \& Data Visualization)
-2\. Excel / CSV (Data Source)
+2\.CSV (Data Source)
 
 
 
@@ -192,8 +192,14 @@ Machines, Furnishings, and Paper also contribute significantly.
 
  
 1. We should focus marketing efforts on Technology and Phones, the best-performing areas.
+
+
 2\. Investigate low-profit or negative-profit regions to optimize pricing \& costs.
+
+
 3\. Improve end-of-month sales dip with promotions or campaigns.
+
+
 4\. Consider diversifying shipping methods for efficiency and cost savings.
 
 
@@ -205,8 +211,11 @@ Machines, Furnishings, and Paper also contribute significantly.
 
 
 1. Clone this repository.
+
 2\. Open the .pbix file in Power BI Desktop.
+
 3\. Explore the interactive dashboard using filters (Year, Region, Order Priority, etc.).
+
 
 
 
