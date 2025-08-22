@@ -85,5 +85,3 @@ Machines, Furnishings, and Paper also contribute significantly.
 3. Explore the interactive dashboard using filters (Year, Region, Order Priority, etc.).
 
 
-
-3\. Explore the interactive dashboard using filters (Year, Region, Order Priority, etc.).
