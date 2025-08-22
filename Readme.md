@@ -223,10 +223,8 @@ Machines, Furnishings, and Paper also contribute significantly.
 2\. Open the .pbix file in Power BI Desktop.
 
 
-3.  Explore the interactive dashboard using filters (Year, Region, Order Priority, etc.).
-
-
 
 3\. Explore the interactive dashboard using filters (Year, Region, Order Priority, etc.).
+
 
 
