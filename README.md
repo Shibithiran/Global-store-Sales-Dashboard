@@ -15,7 +15,7 @@ This repository contains an interactive Power BI dashboard that analyzes and vis
 
 1. Global Store Dashboard.pbix → Power BI dashboard file.
 2. Dataset.csv → Raw data used for analysis.
-3. Dashboard Report.docx → Detailed explanation of KPIs and business insights.
+3. Dashboard Report.pdf → Detailed explanation of KPIs and business insights.
 4. Dashboard Screenshot.png → Preview of the dashboard.
 
 📸 **Dashboard Overview**
@@ -69,7 +69,7 @@ Machines, Furnishings, and Paper also contribute significantly.
 🛠️ **Tools \& Technologies**
 
 1. Power BI (Dashboard \& Data Visualization)
-2. Excel / CSV (Data Source)
+2. CSV (Data Source)
 
 📈 **Business Insights \& Recommendations**
 
